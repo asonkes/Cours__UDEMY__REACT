@@ -1,10 +1,10 @@
-import Container6 from "./lessons/6.Utiliser-du-CSS/Container";
+import Container7 from "./lessons/7.Créer-une-liste/Container";
 
 function App() {
   return (
     <div className="main-content">
       <h1>Cours React</h1>
-      <Container6 />
+      <Container7 />
     </div>
   );
 }
