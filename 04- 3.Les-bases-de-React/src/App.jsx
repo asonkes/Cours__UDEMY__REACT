@@ -1,10 +1,10 @@
-import Container5 from "./lessons/5.Les-props/Container";
+import Container6 from "./lessons/6.Utiliser-du-CSS/Container";
 
 function App() {
   return (
     <div className="main-content">
       <h1>Cours React</h1>
-      <Container5 />
+      <Container6 />
     </div>
   );
 }
