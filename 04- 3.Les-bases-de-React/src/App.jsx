@@ -1,10 +1,10 @@
-import Container8 from "./lessons/8.Utiliser-des-images/Container";
+import Container11 from "./lessons/11.Short-circuit/Container";
 
 function App() {
   return (
     <div className="main-content">
       <h1>Cours React</h1>
-      <Container8 />
+      <Container11 />
     </div>
   );
 }
