@@ -1,6 +1,6 @@
 import "./Container.css";
 
-export default function Container() {
+export default function Container7() {
 
   return (
     <div className="container">

@@ -1,4 +1,4 @@
-import Container from "./lessons/2.La-règle-des-hooks/Container"
+import Container from "./lessons/6.Appeler-une-API/Container";
 
 function App() {
 
