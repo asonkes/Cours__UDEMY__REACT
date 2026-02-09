@@ -1,9 +1,10 @@
+import { Child } from "./Child";
 
-export default function Container() {
+export default function Container10() {
   return (
     <div>
-      <h1>Props children</h1>
-
+      {/** Ici on va mettre des props */}
+      <Child txt={"test"} />
     </div>
-  )
+  );
 }
